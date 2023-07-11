@@ -27,7 +27,7 @@ function Navbar() {
   return (<>
 
     <header>
-      <a href="/" className='logo'><img src="../public/logo.png" alt="" /></a>
+      <a href="/" className='logo'><img src="/logo.png" alt="" /></a>
     
   { (toggleMenu || screenWidth > 1000) && (
     <ul className='navmenu'>

@@ -12,7 +12,7 @@ function Hero() {
       <a href="">get started</a>
     </div>
     <div className='main-img'>
-      <img src="../public/hero.svg" alt="" />
+      <img src='/hero.svg' alt="" />
     </div>
     <div className='arrow'>
       <a href="/">Scroll Down <span><AiOutlineArrowDown className='arrow-down' /></span></a>
